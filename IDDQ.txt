@@ -1,0 +1,15 @@
+IDDQ = 1
+IDDQ = 8
+IDDQ = 5
+IDDQ = 6
+IDDQ = 4
+IDDQ = 9
+  abc = 2
+IDDQ = 7
+IDDQ = 5
+
+   sdc = 4
+IDDQ = 1
+IDDQ = 2
+IDDQ = 6
+frx = 6
